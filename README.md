@@ -6,16 +6,24 @@
 ### Projects
 
 ## [TrollTracker: Trump, Trudeau, and Russian Trolls](https://github.com/brutucas/Trump_Trudeau_Troll_Tweets.git)
-- **Data Wrangling**: Processed and prepared tweet datasets for analysis and machine-learning modeling, achieving 95% data accuracy.
-- **Text Processing**: Conducted extensive linguistic analysis, utilizing tokenization, stopword removal, and TF-IDF word-weighing, enhancing text clarity by 30%.
+- **Data Wrangling**: Nearly *95% accuracy* with processing of tweet datasets for analysis and machine-learning modeling.
+- **NLP Text Processing**: Tripled text clarity with extensive linguistic analysis, utilizing tokenization, stopword removal, and TF-IDF word-weighing.
 - **Sentiment Analysis**: Implemented advanced NLP techniques like sentiment analysis and word embeddings, improving model performance by over 20%.
-- **Fake News**: <87% accuracy> in classifying Russian troll tweets using a LogRes model,
-- **Classified Tweets**: <84% accuracy> in Trump/Trudeau tweet classification with a LinearSVC model, even without additional French stopword processing.
+- **Fake News**: *87% accuracy* in classifying Russian troll tweets using a LogRes model,
+- **Classified Tweets**: *84% accuracy* in Trump/Trudeau tweet classification with a LinearSVC model, even without additional French stopword processing.
+
+- ## [VocalForge: AI-Powered TTS Audiobook Creation](https://github.com/brutucas/AI_TTS_Audiobook.git)
+- **Project Leadership**: Led the development and optimization of a TTS model using the LJSpeech dataset, enhancing AI audiobook creation skills.
+- **Training Optimization**: Streamlined model training by adjusting parameters, reducing training time and overcoming challenges with TensorBoard.
+- **Rapid Prototyping**: Achieved quick prototyping of TTS systems, creating a basic model with minimal training (10 epochs) to demonstrate feasibility.
+- **Advanced Model Deployment**: Transitioned to pre-trained TTS models, significantly accelerating development and focusing on fine-tuning for better results.
+- **Performance Evaluation**: Discovered training time for TTS models averaged 1.6 times playback duration, guiding future resource estimation and optimization.
+- **Fine-Tuning and Results**: Produced a 10-minute TTS clip and successfully cloned voices for speech generation with fine-tuning of sentence endings for naturalness and coherence.
 
 ## [Shaolin.FC: Sports Data Analysis and Visualisation](https://github.com/brutucas/Football-Player-Analysis.git)
 - **Project Leadership**: Led the development of a Streamlit application for football data analysis, incorporating effective data cleaning and integration techniques.
 - **Data Collection and Management**: Implemented web scraping scripts to collect and prepare player data from various online sources.
-- **Dynamic Data Visualization Tool**: Developed an interactive visualization tool using Plotly Express and Pandas within the Streamlit framework, featuring radar charts for complex player data.
+- **Dynamic Data Visualization Tool**: Developed an interactive visualization tool, featuring radar charts for complex player data.
 - **Interactive Dashboard**: Created a real-time Streamlit dashboard with interactive capabilities for comparing and analyzing football player performance.
 - **Outcome and Impact**: Merged multiple data sources and visualization tools to enhance insights into player performance through a comprehensive analysis platform.
 
