@@ -12,7 +12,7 @@
 - **Fake News**: *87% accuracy* in classifying Russian troll tweets using a LogRes model,
 - **Classified Tweets**: *84% accuracy* in Trump/Trudeau tweet classification with a LinearSVC model, even without additional French stopword processing.
 
-- ## [VocalForge: AI-Powered TTS Audiobook Creation](https://github.com/brutucas/AI_TTS_Audiobook.git)
+## [VocalForge: AI-Powered TTS Audiobook Creation](https://github.com/brutucas/AI_TTS_Audiobook.git)
 - **Project Leadership**: Led the development and optimization of a TTS model using the LJSpeech dataset, enhancing AI audiobook creation skills.
 - **Training Optimization**: Streamlined model training by adjusting parameters, reducing training time and overcoming challenges with TensorBoard.
 - **Rapid Prototyping**: Achieved quick prototyping of TTS systems, creating a basic model with minimal training (10 epochs) to demonstrate feasibility.
