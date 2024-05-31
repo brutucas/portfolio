@@ -19,7 +19,7 @@
 
 ## Projects
 
-### [TrollTracker: Trump, Trudeau, and Russian Trolls](https://github.com/brutucas/Trump_Trudeau_Troll_Tweets.git)
+### [TrollTracker: Trump, Trudeau, and Russian Troll Tweets](https://github.com/brutucas/Trump_Trudeau_Troll_Tweets.git)
 - **Data Wrangling**: Nearly *95% accuracy* with processing of tweet datasets for analysis and machine-learning modeling.
 - **NLP Text Processing**: Tripled text clarity with extensive linguistic analysis, utilizing tokenization, stopword removal, and TF-IDF word-weighing.
 - **Sentiment Analysis**: Implemented advanced NLP techniques like sentiment analysis and word embeddings, improving model performance by over 20%.
