@@ -11,11 +11,11 @@
 
 ## Education
 
-- **Master of Science in Analytics**: Georgia Institute of Technology | *(In progress)*
-- **Data Science AI/ML Bootcamp**: [Shaolin.AI](https://shaolin.ai/bootcamp) | *(January to July 2024)*
-- **Postgraduate Certificate in Education**: St. Mary’s University Twickenham, London | *(2017-2018)*
+- **Master of Science in Analytics**: Georgia Institute of Technology *(In progress)*
+- **Data Science AI/ML Bootcamp**: [Shaolin.AI](https://shaolin.ai/bootcamp) *(January to July 2024)*
+- **Postgraduate Certificate in Education**: St. Mary’s University Twickenham, London *(2017-2018)*
 - **BA in Modern Languages (2.1)**: Durham University, Durham *(2013-2017)*
-- **A-Levels (A*AAB - Geology, French, History, German)**: Altrincham Grammar School for Boys, Manchester | *(2007-2013)*
+- **A-Levels (A*AAB - Geology, French, History, German)**: Altrincham Grammar School for Boys, Manchester *(2007-2013)*
 
 ## Projects
 
