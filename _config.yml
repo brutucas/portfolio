@@ -1,9 +1,5 @@
-# Benjamin Lucas
-
-<img src="/assets/headshot_image_resized.png" alt="Benjamin Lucas" style="width:150px;"/>
-
-Expert in AI and ML with a background in education, pastoral leadership, and project management.
-
-show_downloads: false
-
+title: Benjamin Lucas
+description: >- # this means to ignore newlines until "baseurl:"
+  Expert in AI and ML with a background in education, pastoral leadership, and project management.
 theme: jekyll-theme-minimal
+
