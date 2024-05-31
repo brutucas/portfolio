@@ -6,7 +6,7 @@
 - **Postgraduate Certificate in Education** | St. Mary’s University Twickenham, London (SEP 2017 - JULY 2018)
 - **BA in Modern Languages (German and Russian)** | Durham University, Durham (AUG 2013 - JULY 2017)
 - **A-Levels (Geology, French, History, German)** | Altrincham Grammar School for Boys, Manchester (SEP 2007 - JULY 2013) - A*AAB
-***
+---
 ### Projects
 
 ### [TrollTracker: Trump, Trudeau, and Russian Trolls](https://github.com/brutucas/Trump_Trudeau_Troll_Tweets.git)
