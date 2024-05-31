@@ -1,5 +1,17 @@
 # Data Scientist
 
+## Skills
+
+**Programming Languages**: Python, SQL, Excel
+
+**Data Viz/Analysis**: Pandas, Tableau, Matplotlib, Web Apps (Streamlit), APIs, JSON, Cloud Dev (AWS, GCP, Docker)
+
+**Machine Learning**: SciKit Learn, Keras, Tensorflow, NLP, HuggingFace
+
+**General Skills**: Planning, Documentation, Presentation, Agile, GitHub, AI Ethics
+
+**Additional Skills**: Cross-cultural Communication, Stakeholder Engagement, Strategic Planning, Educational Innovation
+
 ## Education
 
 - **Online Master of Science in Analytics** | Computational Data Analytics Track *(In progress)*
