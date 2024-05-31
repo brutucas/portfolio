@@ -35,7 +35,7 @@
 
 ## Work Experience
 
-**Artisan of Education (Language, Ethics, and Future Studies) @ Institut auf dem Rosenberg, Switzerland** *(August 2023 - August 2024)*
+**Artisan of Education (Language, Ethics, and Future Studies) @ Institut auf dem Rosenberg, Switzerland** *(August 2023 - present)*
 - Collaborated with MIT and Humanix school partners to launch a pioneering 'Ethics of AI' course.
 - Implemented a data-driven approach for language teaching and assessments to optimize student learning and performance tracking.
 - Served as 'future architect' to enhance the 'Blue Nomad' project and facilitate collaboration between management and academic heads.
@@ -51,7 +51,7 @@
 - Optimised and taught an ESL curriculum to improve English language skills and cultural awareness in Samara, Russia. 
 - Introduced and managed a significant academic presentation award to boost student communication skills.
 
-**Pastoral Care and Sports Management @ Summer Boarding Courses / Israel Lacrosse / Brooklands Sports Club** *(September 2017 - July 2023)*
-- Managed a diverse boarding house of over 70 international summer school students, creating programs and trips that promoted educational enrichment and cultural understanding.
+**Pastoral Care and Sports Management @ Summer Boarding Courses / Israel Lacrosse / Brooklands Sports Club** *(September 2010 - August 2016*
+- Managed a diverse boarding house of over 70 international summer school students, creating programs that promoted educational and cultural enrichment.
 - Expanded Ashkelon lacrosse club membership by 20% through strategic community engagement and program development throughout Israel.
-- Led session planning and long-term growth of local sports club membership, enhancing coaching effectiveness and participant engagement with two youth teams.
+- Led session planning and long-term growth of local sports club membership, enhancing coaching effectiveness and participation with two youth teams.
