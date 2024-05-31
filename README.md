@@ -35,7 +35,7 @@
 
 ## Work Experience
 
-#### August 2023 - August 2024 | **Institut auf dem Rosenberg, Switzerland - Artisan of Education (Language, Ethics, and Future Studies)**
+**Artisan of Education (Language, Ethics, and Future Studies)** | Institut auf dem Rosenberg, Switzerland *(August 2023 - August 2024)*
 - Collaborated with MIT and Humanix school partners to launch a pioneering 'Ethics of AI' course.
 - Implemented a data-driven approach for language teaching and assessments to optimize student learning and performance tracking.
 - Served as 'future architect' to enhance the 'Blue Nomad' project and facilitate collaboration between management and academic heads.
