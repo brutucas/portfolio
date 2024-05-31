@@ -1,5 +1,5 @@
 title: Benjamin Lucas
 logo: /assets/headshot_circle.png
 description: Expert in AI and ML with a background in education and project management.
-show_downloads: false
+# show_downloads: True
 theme: jekyll-theme-minimal
