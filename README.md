@@ -35,7 +35,7 @@
 
 ## Work Experience
 
-#### AUG 2023 - NOW
+#### August 2023 - August 2024
 **Institut auf dem Rosenberg, Switzerland - Artisan of Education (Language, Ethics, and Future Studies)**
 - Collaborated with MIT and Humanix school partners to launch a pioneering 'Ethics of AI' course.
 - Implemented a data-driven approach for language teaching and assessments to optimize student learning and performance tracking.
@@ -44,7 +44,7 @@
 - Initiated an AI workgroup focused on the integration of AI technologies into education
 - Developed machine learning-enhanced curriculum to pinpoint educational objectives and improvement opportunities.
 
-#### SEP 2017 - JULY 2023
+#### September 2017 - July 2023
 **Schools Direct / Sherborne School - Teacher of Foreign Languages and Ethics**
 - Increased German GCSE enrollment by 15% at Sherborne School through collaborative curriculum and innovative teaching strategies.
 - Assisted with running a large (70+ boys) senior school boarding house, monitoring pupil welfare on duty nights.
@@ -53,7 +53,7 @@
 - Optimised and taught an ESL curriculum to improve English language skills and cultural awareness in Samara, Russia. 
 - Introduced and managed a significant academic presentation award to boost student communication skills.
 
-#### SEP 2017 - JULY 2023
+#### September 2017 - July 2023
 **Summer Boarding Courses / Israel Lacrosse / Brooklands Sports Club - Pastoral Care and Sports Management**
 - Managed a diverse boarding house of over 70 international summer school students, creating programs and trips that promoted educational enrichment and cultural understanding.
 - Expanded Ashkelon lacrosse club membership by 20% through strategic community engagement and program development throughout Israel.
