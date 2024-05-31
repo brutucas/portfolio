@@ -59,7 +59,7 @@
 - Optimised and taught an ESL curriculum to improve English language skills and cultural awareness in Samara, Russia. 
 - Introduced and managed a significant academic presentation award to boost student communication skills.
 
-**Pastoral Care and Sports Management @ Summer Boarding Courses / Israel Lacrosse / Brooklands Sports Club** *(September 2010 - August 2016*
+**Pastoral Care and Sports Management @ Summer Boarding Courses / Israel Lacrosse / Brooklands Sports Club** *(September 2010 - August 2016)*
 - Managed a diverse boarding house of over 70 international summer school students, creating programs that promoted educational and cultural enrichment.
 - Expanded Ashkelon lacrosse club membership by 20% through strategic community engagement and program development throughout Israel.
 - Led session planning and long-term growth of local sports club membership, enhancing coaching effectiveness and participation with two youth teams.
