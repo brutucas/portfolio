@@ -1,13 +1,9 @@
 # Benjamin Lucas
 
-<img src="/assets/headshot_image.png" alt="Benjamin Lucas" style="width:150px;"/>
+<img src="/assets/headshot_image_resized.png" alt="Benjamin Lucas" style="width:150px;"/>
 
 Expert in AI and ML with a background in education, pastoral leadership, and project management.
 
 show_downloads: false
 
 theme: jekyll-theme-minimal
-
-show_downloads: false
-github:
-  is_project_page: false
