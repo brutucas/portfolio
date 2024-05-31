@@ -2,7 +2,8 @@
 
 ## Skills
 
-- **Programming Languages**: Python, SQL, Excel- **Data Viz/Analysis**: Pandas, Tableau, Matplotlib, Web Apps (Streamlit), APIs, JSON, Cloud Dev (AWS, GCP, Docker)
+- **Programming Languages**: Python, SQL, Excel
+- - **Data Viz/Analysis**: Pandas, Tableau, Matplotlib, Web Apps (Streamlit), APIs, JSON, Cloud Dev (AWS, GCP, Docker)
 - **'Human Languages'**: German, French, Russian, and Spanish (all to professional working competency)
 - **Machine Learning**: SciKit Learn, Keras, Tensorflow, NLP, HuggingFace
 - **General Skills**: Planning, Documentation, Presentation, Agile, GitHub, AI Ethics
