@@ -3,7 +3,7 @@
 ## Education
 
 - **Online Master of Science in Analytics** | Computational Data Analytics Track *(IN PROGRESS)*
-- **Data Science Bootcamp** | Shaolin.AI 24-Week AI/ML Bootcamp *(JANUARY 2024 - JULY 2024)*
+- **Data Science Bootcamp** | Shaolin.AI 24-Week AI/ML Bootcamp *(January to July 2024)*
 
 - **Postgraduate Certificate in Education** | St. Mary’s University Twickenham, London *(2017-2018)*
 - **BA in Modern Languages (German and Russian) - 2.1** | Durham University, Durham *(2013-2017)*
