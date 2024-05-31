@@ -1,13 +1,13 @@
 # Data Scientist
 
-### Education
+## Education
 
 - **Online Master of Science in Analytics** | Computational Data Analytics Track (In progress - expected completion January 2026)
 - **Postgraduate Certificate in Education** | St. Mary’s University Twickenham, London (SEP 2017 - JULY 2018)
 - **BA in Modern Languages (German and Russian)** | Durham University, Durham (AUG 2013 - JULY 2017)
 - **A-Levels (Geology, French, History, German)** | Altrincham Grammar School for Boys, Manchester (SEP 2007 - JULY 2013) - A*AAB
----
-### Projects
+
+## Projects
 
 ### [TrollTracker: Trump, Trudeau, and Russian Trolls](https://github.com/brutucas/Trump_Trudeau_Troll_Tweets.git)
 - **Data Wrangling**: Nearly *95% accuracy* with processing of tweet datasets for analysis and machine-learning modeling.
@@ -30,7 +30,7 @@
 - **Dynamic Data Visualization Tool**: Developed an interactive visualization tool, featuring radar charts for complex player data.
 - **Interactive Dashboard**: Created a real-time Streamlit dashboard with interactive capabilities for comparing and analyzing football player performance.
 - **Outcome and Impact**: Merged multiple data sources and visualization tools to enhance insights into player performance through a comprehensive analysis platform.
-***
+
 ## Work Experience
 
 #### AUG 2023 - NOW
