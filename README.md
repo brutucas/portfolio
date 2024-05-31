@@ -4,14 +4,11 @@
 
 #### ONGOING
 **Online Master of Science in Analytics** with Computational Data Analytics Track (in progress - expected completion January 2026)
-
-#### SEPTEMBER 2017 - JULY 2018
+#### SEP 2017 - JULY 2018
 **St. Mary’s University Twickenham, London** - Postgraduate Certificate in Education
-
-#### AUGUST 2013 - JULY 2017
+#### AUG 2013 - JULY 2017
 **Durham University, Durham** - BA in Modern Languages (German and Russian)
-
-#### SEPTEMBER 2007 - JULY 2013
+#### SEP 2007 - JULY 2013
 **Altrincham Grammar School for Boys, Manchester** - A-Levels (Geology, French, History, German) - A*AAB
 
 ### Projects
