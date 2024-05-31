@@ -13,7 +13,6 @@
 
 - **Online Master of Science in Analytics** | Computational Data Analytics Track *(In progress)*
 - **Data Science Bootcamp** | Shaolin.AI 24-Week AI/ML Bootcamp *(January to July 2024)*
-
 - **Postgraduate Certificate in Education** | St. Mary’s University Twickenham, London *(2017-2018)*
 - **BA in Modern Languages (German and Russian) - 2.1** | Durham University, Durham *(2013-2017)*
 - **A-Levels (Geology, French, History, German) - A*AAB** | Altrincham Grammar School for Boys, Manchester *(2007-2013)*
